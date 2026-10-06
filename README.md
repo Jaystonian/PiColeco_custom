@@ -42,7 +42,7 @@ re-written a few blocks of code, and resolved some or most issues.
 You can take these gerbers and produce them yourselves, they are an overall
 upgrade over the original PCB and recommended for all further use.  Fixes the
 old problems with poor trace routing, thin traces, diode component through-hole 
-spacing, and data-bus ringing with resistor arrays.
+spacing, and data-bus ringing with resistor arrays. Not for commercial use.
 
 **Why Here**
 
