@@ -36,10 +36,16 @@ re-written a few blocks of code, and resolved some or most issues.
 **The new PCB**
 
 You can take these gerbers and produce them yourselves, they are an overall
-upgrade over the original PCB and recommended for all further use.
+upgrade over the original PCB and recommended for all further use.  Fixes the
+old problems with poor trace routing, thin traces, diode component through-hole 
+spacing, and data-bus ringing with resistor arrays.
 
 **Why Here**
 
-I'd like some feedback from those who can test this on a fully original CVS.
-The ones here are all modified to some degree and this code is now working on
-all of them.  Also I needed a place to link for Aotta to review the work.
+I'm giving back these fixes to our wonderful community.
+
+2026-10-06:  Just awaiting PCB arrival to continue testing code changes.
+Then I will post the code update.  Original code design appears sound.  I had
+implemented changes to isolate the problems, got it working somewhat but the
+ROMs were always buggy, menu was buggy, etc.  Isolated the data-bus ringing.
+
