@@ -20,6 +20,9 @@ PiColeco, I measured 3.6W.  Most of the components are AHCT and HCT, with a
 have fast edges and faster propagation.  Standard cartridges, as well as my 
 flash-chip cartridges (29c160, 39SF040, etc) with AND-gate logic combining the 
 block enable lines, all work well with it when hardware is directly on the bus.
+This is a useful system arrangement for diagnosing hardware faults as it makes
+real issues slightly worse, but more apparent.  Required for full testing of
+my SGM and Coleco Flash Pro, coming soon.
 
 **The 1.0d PiColeco code (SDK 2.2)**
 
