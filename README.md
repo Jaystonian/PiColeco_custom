@@ -9,7 +9,7 @@ https://github.com/aotta/PiCOLECO
 In my development process, I needed a PiColeco but I found it wasn't working 
 at all on a heavily modified ColecoVision that I use for fine-tuning timing.  I 
 needed to redesign the PCB so it has a solid ground to eliminate ground-bounce 
-for my instrumentation to be most effective, as well as including more components.  
+for my instrumentation to be most effective, as well as including more components. 
 Code refinement was tested on the HMCVS.
 
 **The heavily-modified CVS (HMCVS)**
